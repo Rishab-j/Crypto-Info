@@ -1,8 +1,8 @@
 # Crytpo Info
 ---
-** Get Latest Crypto Info and News **
+**Get Latest Crypto Info and News**
 
-### Build Using
+### Buil Using
 - ReactJS
 - Rapid Api's Coin Ranking and Bing News Api
  
